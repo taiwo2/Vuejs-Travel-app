@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "uJa2OgHawqgwhYLYLdd/j/nf0ACKayv+vgXEYDBVyyuSEeN9buSi4ZGTaq09LXqjNM/gSmSQzbMVfnUIdr4H5w==",
+  "success": true,
+  "projectFilePath": "/home/taiwo/dot/Travel/src/presentation/Travel.WebApi/Travel.WebApi.csproj",
+  "expectedPackageFiles": [
+    "/home/taiwo/.nuget/packages/microsoft.aspnetcore.openapi/7.0.8/microsoft.aspnetcore.openapi.7.0.8.nupkg.sha512",
+    "/home/taiwo/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/home/taiwo/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/home/taiwo/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/home/taiwo/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/home/taiwo/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/home/taiwo/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
